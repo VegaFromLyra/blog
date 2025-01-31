@@ -1,10 +1,13 @@
 ---
 title: "About me"
-excerpt: "Product-minded and hands-on Engineering Leader with a proven track record of boosting Engineering team's growth to drive business impact. Plus I enjoy programming."
+excerpt: "Product-minded and hands-on Engineering Leader at work. Curious Programmer at play."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
+author:
+  name: JJ Kasper
+  picture: "/assets/blog/authors/jj.jpeg"
 ---
 
 Foobar
