@@ -1,10 +1,10 @@
 ---
 title: "About me"
 excerpt: "Product-minded and hands-on Engineering Leader at work. Curious Programmer at play."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/about-me/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/about-me/cover.jpg"
 author:
   name: JJ Kasper
   picture: "/assets/blog/authors/jj.jpeg"
