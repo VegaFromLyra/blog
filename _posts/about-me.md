@@ -2,11 +2,11 @@
 title: "About me"
 excerpt: "Product-minded and hands-on Engineering Leader at work. Curious Programmer at play."
 coverImage: "/assets/blog/about-me/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2025-03-26"
 ogImage:
   url: "/assets/blog/about-me/cover.jpg"
 author:
-  name: JJ Kasper
+  name: Asha Balasubramaniam
   picture: "/assets/blog/authors/jj.jpeg"
 ---
 
